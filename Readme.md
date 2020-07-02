@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Barabadze Luka](https://up.htmlacademy.ru/javascript/20/user/1509713).
-* Наставник: `Неизвестно`.
+* Наставник: `Владимир Чебаков`.
 
 ---
 
@@ -14,7 +14,7 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.travis.yml`, `p
 
 #### 1. Зарегистрируйтесь на Гитхабе
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь. // +
 
 #### 2. Создайте форк
 
